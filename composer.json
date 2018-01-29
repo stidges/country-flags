@@ -1,6 +1,6 @@
 {
     "name": "stidges/country-flags",
-    "description": "A small package to convert a country code to an emoji flag",
+    "description": "A small package to convert a country code to the corresponding country flag emoji",
     "keywords": [
         "country-flags",
         "countries",
