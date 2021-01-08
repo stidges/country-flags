@@ -7,6 +7,8 @@
 
 A small package to convert a country code to the corresponding country flag emoji.
 
+**Note:** Emoji flags are **not supported on Windows**, which displays two-letter country codes instead of emoji flag images.
+
 ## Installation
 
 You can install the package via Composer:
